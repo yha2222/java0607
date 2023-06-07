@@ -15,7 +15,7 @@ public class report01 {
 		int com = (int)(Math.random()*3)+1;
 		
 		System.out.print("숫자 입력(1~3): ");
-		
+	
 		
 		while(true) {
 		int user = sc.nextInt();
