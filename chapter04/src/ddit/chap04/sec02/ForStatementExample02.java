@@ -78,14 +78,14 @@ public class ForStatementExample02 {
 		//System.out.print("단어 입력: ");
 		//String word = sc.next();
 		
-		char a = 'a';
+		int num = 0;
+		char a = 'A';
 		
 		if(a == 'a') {
-			System.out.println("dd");
-		}else {
-			System.out.println("no");
+			num += 1;
 		}
 		
+		System.out.println(num);
 	}
 	
 	//문제 3] 1-50 사이에 존재하는 fibonacci 수열을 출력하시오
