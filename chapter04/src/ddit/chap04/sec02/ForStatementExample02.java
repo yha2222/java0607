@@ -87,9 +87,4 @@ public class ForStatementExample02 {
 		
 		System.out.println(num);
 	}
-	
-	//문제 3] 1-50 사이에 존재하는 fibonacci 수열을 출력하시오
-	//** fibonacci 수열 : 첫 수와 두번째수가 1로 주어지고 그 다음부터
-	//   전 두 수의 합이 현재수가 되는 수열
-	//    => 자료 검색알고리즘에 사용(피노나치 검색)
 }
